@@ -19,12 +19,6 @@ venv/
 virtualenv/
 ENV/
 
-# Ignorar archivos de migraciones generados por Django
-*/migrations/
-
-# Ignorar archivo de configuración de Django
-settings.py
-
 # Ignorar archivo con información sensible (p.ej. claves secretas)
 secret.txt
 
